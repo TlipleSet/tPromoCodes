@@ -1,0 +1,21 @@
+#################################
+# PromoСodes creation scheme:   #
+#################################
+# name:                         #
+#   command: 'Command'          #
+#   promocode: 'Promocode_Name' #
+#################################
+promocodes:
+  promo:
+    command: 'give %player% diamond 1'
+    promocode: 'promo'
+reload_config: '&2Config reloaded'
+# User data not worked!
+clearuserdata: '&2UserData cleared!'
+
+##############################
+#                            #
+#  Plugin author - Tliple    #
+#  Discord: Mega_Pixel#8329  #
+#                            #
+##############################

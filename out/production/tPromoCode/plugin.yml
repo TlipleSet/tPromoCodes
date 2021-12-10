@@ -1,0 +1,11 @@
+name: tPromoCodes
+main: com.tliple.base.Main
+version: 1.0
+author: Tliple
+commands:
+  promocode:
+    description: Promocode
+    usage: /promocode [promocode]
+  admin_promo:
+    description: Admin commands
+    usage: /admin_promo [command]
